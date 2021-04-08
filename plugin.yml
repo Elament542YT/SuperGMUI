@@ -1,0 +1,8 @@
+name: GMUI
+author: OmegaDevFlo
+main: OmegaDevFlo\SuperGMUI\Main
+version: 1.0.0
+api: 3.0.0
+commands:
+  gmui:
+    description: §aGamemode UI.
